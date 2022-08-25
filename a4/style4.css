@@ -1,0 +1,145 @@
+.table{
+    border: solid 1px #DDDDDD;
+    font-family: arial;
+    border-collapse: collapse;
+}
+
+.P, .V, .D, .GP, .Po{
+    background-color: #F7F7F7;
+}
+
+td, th{
+    border-bottom: solid 1px #DDDDDD;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    font-size: 14px;
+    color: #666666;
+}
+
+.Po{
+    width: 60px;
+    height: 50px;
+}
+
+.exc{
+    border-bottom: solid 2px #CCCCCC;
+}
+
+.times{
+    font-weight: bold;
+    text-align: left;
+    width: 300px;
+    height: 50px;
+    font-size: 14px;
+    color: #666666;
+}
+
+.pontos{
+    font-size: 14px;
+    color: black;
+}
+
+.num{
+    width: 50px;
+    height: 50px;
+    font-size: 18px;
+}
+
+.li{
+    color: #003366;
+}
+
+.pre{
+    color: #1398BE;
+}
+
+.sul{
+    color: #DE9800;
+}
+
+.cinza{
+    color: #CCCCCC;
+}
+
+.rebaixados{
+    color: #C91B04;
+}
+
+.titulo{
+    font-size: 13px;
+    color: #999999;
+    font-weight: bold;
+}
+
+.azulC{
+    background-color: #1398BE;
+    border-radius: 2px;
+}
+.azul{
+    background-color: #003366;
+    border-radius: 2px;
+}
+.lar{
+    background-color: #DE9800;
+    border-radius: 2px;
+}
+.verm{
+    background-color: #C91B04;
+    border-radius: 2px;
+}
+
+.td{
+    margin-right: -6px;
+    align-content: left;
+    text-align: left;
+    border-collapse: collapse;
+    width: 3px;
+    height: 3px;
+}
+
+ 
+.display{
+    display: inline-block;
+}
+ 
+.titulo{
+    font-size: 10px;
+    color: #8F8F8F;
+    text-align: left;
+    font-family: arial;;
+   
+}
+
+.legenda{
+    width: 10px;
+    height: 10px;
+    margin-left: 10px;
+    
+}
+
+.siglas{
+    font-size: 10px;
+    font-weight: bold;
+    color: #555555; 
+    text-align: left;
+    align-content: left;
+}
+
+.significados{
+    font-size: 10px;
+    color: #555555;
+    text-align: left;
+    align-content: left;
+}
+
+.tr{
+    width: 10px;
+    height: -8px;
+    border-top: none;
+}
+
+.td2{
+    width: 4px;
+    height: 4px;   
+}

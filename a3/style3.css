@@ -1,0 +1,43 @@
+.princ{
+    background-color: #0D5188;
+    color: white;
+   
+}
+ 
+.body{
+    font-family: Arial;
+    font-size: 12px;
+}
+ 
+.linha1{
+    background-color: #66C5E3;
+}
+ 
+.table{
+    width: 600px;
+    background-color: #C7E7F3;
+    border: 1px solid transparent;
+}
+ 
+.celula{
+    padding: 2px;
+    border: 2px solid transparent;
+}
+ 
+.bold{
+    font-weight: bold;
+    color: #0D5188;
+}
+ 
+.cidade{
+    text-align: start;
+}
+ 
+.posicao{
+    text-align: center;
+    background-color: silver;
+}
+ 
+.pop{
+    text-align: center;
+}
